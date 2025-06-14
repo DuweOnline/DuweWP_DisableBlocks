@@ -1,0 +1,20 @@
+.branding_sections {
+	display: flex;
+	gap: 1rem;
+	margin-bottom: 3rem;
+}
+#duweavatar {
+	max-width: 175px;
+
+.duweavatar {
+	aspect-ratio: 1 / 1;
+	width: 100%;
+	max-width: 100px;
+}
+.duwecontent {
+	flex-grow: 1
+}
+.duwewpcopyright {
+	font-size: 0.8rem !important;
+	margin-top: 3rem !important;
+}
